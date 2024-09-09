@@ -32,11 +32,3 @@ Run the program
 
 Gealan, Karylle Marjorie O.
 https://www.facebook.com/karmageee
-
-## Version History
-
-0.2
-- Various bug fixes and optimizations
-    * See [commit change]()
-0.1
-- Initial Release
