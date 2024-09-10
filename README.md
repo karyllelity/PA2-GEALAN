@@ -33,7 +33,7 @@ Gealan, Karylle Marjorie O. https://www.facebook.com/karmageee
 
 ## Version History
 
-- 1.4: Edited the README file
-- 1.3: Uploaded the README file
-- 1.2: Added markdowns and removed the extra cells
-- 1.1: Uploaded the PA2-GEALAN.ipynb, div_by_3.npy, and x_normalized.npy
+- 1.4 -  Edited the README file
+- 1.3 -  Uploaded the README file
+- 1.2 -  Added markdowns and removed the extra cells
+- 1.1 -  Uploaded the PA2-GEALAN.ipynb, div_by_3.npy, and x_normalized.npy
