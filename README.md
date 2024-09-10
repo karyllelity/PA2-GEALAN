@@ -25,7 +25,7 @@ The purpose of this task is to practice and apply skills in array manipulation a
 ### Executing program
 
 1. Open Jupyter Notebook and load the PA2-GEALAN.ipynb notebook.
-2. Run the program by using shift plus enter to execute the cells in the notebook
+2. Run the program by using shift plus enter to execute the cells in the notebook.
 
 ## Authors
 
